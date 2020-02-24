@@ -1,0 +1,13 @@
+set nocompatible
+syntax on
+set number
+set ruler "show line and column number in bottom
+set number
+set showcmd
+set hlsearch
+set backspace=indent,eol,start " use backspace anywhere
+set expandtab " use tab for expand
+set tabstop=4 "number of space in tab
+set softtabstop=4
+set shiftwidth=4
+set mouse=a
